@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoSs7
-- 👀 I’m interested in videogames, interfaces
+- 👀 I’m interested in Videogames, Interfaces
 - 🌱 I’m currently learning Bootstrap, Materialize, Vue.js, Node.js
-- 💞️ I’m looking to collaborate on videogames
+- 💞️ I’m looking to collaborate on Videogames
 - 📫 How to reach me: jose_mantecas@hotmail.com
 
 <!---
